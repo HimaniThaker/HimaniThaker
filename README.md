@@ -1,6 +1,6 @@
 # Hi, I'm Himani Thaker 👋
 
-### Senior .NET Backend Engineer | C# • ASP.NET Core • SQL Server
+### Senior .NET Backend Engineer | AI Engineer | Machine Learning Engineer
 
 7+ years building enterprise-grade applications and database-heavy systems across
 aviation, engineering, payroll and education. I specialise in C#, ASP.NET Web APIs
