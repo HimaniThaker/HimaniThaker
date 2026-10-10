@@ -13,6 +13,17 @@ response times by 30-50%. M.Sc. in Artificial Intelligence.
 
 ---
 
+## About Me
+
+I am a software engineer with 7 years building enterprise-grade applications and database-heavy systems across
+aviation, engineering, payroll and education. I specialise in C#, ASP.NET Web APIs
+and SQL Server performance tuning, with a track record of cutting query and API
+response times by 30-50%.
+
+I recently completed an MSc in Artificial Intelligence with Distinction at Anglia Ruskin University, Cambridge. My work focuses on turning AI and data ideas into working systems using Python and modern machine learning tools.
+
+---
+
 ## Skills
 
 - **Languages:** C#, T-SQL, VB.NET, JavaScript, Python, Bash
